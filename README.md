@@ -1,5 +1,7 @@
 # image-to-layered-psd
 
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 把一张扁平的 JPG / PNG / WebP 图片，重建为 **可编辑的分层 PSD**（主体、道具、文字、双层阴影各自成层，背景独立）。
 
 适用于"这张图给我拆成分层 PSD""图片转分层 PSD""拆分图层""从平面图恢复源文件"这类需求；不做普通修图，也不做电商主图重设计。
@@ -67,4 +69,6 @@ scripts/
 
 ## License
 
-仓库未附带许可证文件。如需开源授权，请补充 LICENSE（例如 MIT）。
+[MIT](LICENSE) © 2026 opun12
+
+可自由使用、修改、分发与商用，保留版权声明即可。基于本 skill 生成的图片、PSD 等产出物的版权归使用者自己所有，不受本许可约束。
