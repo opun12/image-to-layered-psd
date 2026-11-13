@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行产物（该 skill 的工作目录与交付中间件）
+work/
+output/
+*.psd
+*.png
+*.jpg
+*.jpeg
+*.webp
+!assets/**/*.png
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
